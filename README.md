@@ -1,2 +1,2 @@
 # parch-s_tqs
-Pràctica 1 de TQS, un projecte per desenvolupar un parchís fent test amb TDD, mocks, Design by Contract i altres mètodes de test
+Implementem un joc de parchís complet (2–4 jugadors, torns, fitxes, sortida amb 5, menjar fitxes, casa, guanyador) amb arquitectura MVC i TDD.
